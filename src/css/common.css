@@ -72,7 +72,7 @@ img {
   font-weight: bold;
 }
 
-button[data-start]:hover {
+.timer-button:hover {
   background-color: #7285a3;
   color: #212121;
 }
